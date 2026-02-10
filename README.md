@@ -1,10 +1,6 @@
 # Foehn Installer
 
-Composer plugin that generates the WordPress web root for [Føhn](https://github.com/studiometa/foehn-framework) projects.
-
-> **Note**
-> This package is part of the [Føhn Framework](https://github.com/studiometa/foehn-framework) monorepo.
-> Please report issues and submit pull requests in the [main repository](https://github.com/studiometa/foehn-framework).
+Composer plugin that generates the WordPress web root for [Foehn](https://github.com/studiometa/foehn) projects.
 
 ## What it does
 
